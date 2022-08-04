@@ -2,4 +2,4 @@
 
 Aplicación web para agregar commentarios de usuarios.
 
-![Vista previa](https://github.com/FranklinCncr/MiniCalculadora_Angular/blob/master/src/assets/minicalculadora.jpg)
+![Vista previa](https://github.com/FranklinCncr/page-comments/blob/main/src/images/vista.png)
